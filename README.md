@@ -15,7 +15,8 @@ coverage type, claim amount, and earned premium data.
    and CTEs to calculate loss ratios by segment, region, and coverage type
 3.⁠ ⁠*Statistical Analysis* (Python) — claim frequency distribution, severity 
    trends, correlation analysis, hypothesis testing across segments
-4.⁠ ⁠*Dashboard* (Power BI) — KPI cards, trend lines, and segment drill-downs 
+   built to support pricing and underwriting decisions
+4. *Dashboard* (Tableau) - KPI cards, product and region loss ratio breakdowns 
    built to support pricing and underwriting decisions
 
 ## Key Findings
@@ -26,3 +27,7 @@ coverage type, claim amount, and earned premium data.
 •⁠  pricing adjustments, underwriting rule changes, fraud review triggers
 
 ## Repo Structure
+
+## Dashboard
+   View the live interactive dashboard
+  https://public.tableau.com/views/PCInsuranceLossRatioAnalysis/PCInsuranceLossRatioAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
