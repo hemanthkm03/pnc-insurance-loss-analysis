@@ -63,5 +63,5 @@ coverage type, claim amount, and earned premium data.
 
 ## Dashboard
    **View the live interactive dashboard**
-   ![Dashboard](![Dashboard](images/dashboard.png)
+   ![Dashboard](![Dashboard](images/Dashboard.png)
   https://public.tableau.com/views/PCInsuranceLossRatioAnalysis/PCInsuranceLossRatioAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
