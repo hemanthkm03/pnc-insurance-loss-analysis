@@ -11,11 +11,14 @@ coverage type, claim amount, and earned premium data.
 ## Approach
 1.⁠ ⁠**Data Cleaning** (Python/pandas) — handled missing values, standardized 
    date formats, validated claim/policy date logic, flagged data quality issues
+
 2.⁠ ⁠*Analysis* (SQL) — JOINs, GROUP BY, CASE statements, window functions, 
    and CTEs to calculate loss ratios by segment, region, and coverage type
+
 3.⁠ ⁠*Statistical Analysis* (Python) — claim frequency distribution, severity 
    trends, correlation analysis, hypothesis testing across segments
    built to support pricing and underwriting decisions
+
 4. *Dashboard* (Tableau) - KPI cards, product and region loss ratio breakdowns 
    built to support pricing and underwriting decisions
 
