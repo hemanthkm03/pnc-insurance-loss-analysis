@@ -52,12 +52,15 @@ coverage type, claim amount, and earned premium data.
   for the highest-risk Auto policies while repricing takes effect
 
  ## Repo Structure
-├── data/                      # raw_claims.csv, cleaned_claims.csv
-├── pnc_insurance_analysis.ipynb   # Data cleaning + loss ratio analysis
-├── images/                    # Dashboard screenshot
+├── data/ # raw_claims.csv, cleaned_claims.csv
+
+├── pnc_insurance_analysis.ipynb  # Data cleaning + loss ratio analysis
+
+├── Images/   # Dashboard screenshot
+
 └── README.md
 
 
 ## Dashboard
-   View the live interactive dashboard
+   **View the live interactive dashboard**
   https://public.tableau.com/views/PCInsuranceLossRatioAnalysis/PCInsuranceLossRatioAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
